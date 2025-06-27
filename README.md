@@ -1,9 +1,17 @@
 # package_name
 
 Description. 
-The package image-processing-package is used to:
-	- 
-	-
+The package image-processing is used to:
+	Processing:
+	- Histogram matching
+	- Strutctural similary
+	- Resize imagine
+	Utils:
+	- Read image
+	- Save image
+	- Plot image
+	- Plot histogram
+	- Plot result.
 
 ## Installation
 
